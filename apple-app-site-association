@@ -1,0 +1,32 @@
+{
+   "applinks": {
+
+	"apps": [],
+	"details": [
+
+		{
+		   "appID":"H767Y2CC8Q.de.tcsag.TKey",
+		   "paths":["*"]
+
+		},
+
+		{
+		    "appID":"CZ6A72ELP8.de.tcsag.TKey",	
+		    "paths":["*"]	
+
+
+		}
+		
+
+
+	]
+
+
+
+
+
+   }
+
+
+
+}
